@@ -3,4 +3,11 @@
   <groupId>AutomationUsingGithub</groupId>
   <artifactId>DemoScripts</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>Qspiders</groupId>
+  		<artifactId>AutomationFramework_M3</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
